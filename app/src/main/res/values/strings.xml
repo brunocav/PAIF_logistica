@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PAIF_logistica</string>
+    <string name="cep">Cep</string>
+    <string name="tipoLogradouro">Logradouro</string>
+    <string name="bairro">Bairro</string>
+    <string name="localidade">EStado</string>
+    <string name="uf">UF</string>
+
+
+</resources>
